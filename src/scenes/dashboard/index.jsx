@@ -22,7 +22,7 @@ import MonetizationOnIcon from "@mui/icons-material/MonetizationOn";
 import Header from "../../components/Header";
 import StatBox from "../../components/StatBox";
 
-import { useContext, useEffect, useState } from "react";
+import { useContext } from "react";
 import SpieContext from "../../context/SpieContext";
 
 const Dashboard = () => {

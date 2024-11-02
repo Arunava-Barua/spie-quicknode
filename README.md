@@ -1,4 +1,4 @@
-# React Admin Dashboard
+# Quicknode SPIE
 
-Completed React Admin Dashboard Repo
+Completed React SPIE Repo
 
